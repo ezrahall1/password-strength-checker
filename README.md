@@ -12,7 +12,7 @@ This project showcases a Python-based password strength checker designed to eval
 
 <h2>YouTube Demonstration </h2>
 
-[REST API with Node.js and Express Project](https://youtu.be/mWdDpGTIcq4)
+[Password strength checker](https://youtu.be/CRlD5_DI7nk)
 
 
 <H3>Weak password</H3>
