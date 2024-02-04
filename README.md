@@ -1,13 +1,9 @@
 # Password Strength Checker
-
-
-# REST API with Node.js and Express
-
-In this Node.js and Express REST API project, I showcase the implementation of functionalities for managing patients' medical records. The demonstration encompasses retrieving medical records, updating personal information like addresses and phone numbers, adding new patients to the system, and deleting existing patient medical records from the database. The entire process is facilitated using Postman, which serves as a tool for sending API requests and testing the code. By presenting these key operations, the project provides insights into building a robust and versatile RESTful API for healthcare data management using the Node.js and Express frameworks, ensuring seamless interactions with patient records
+This project showcases a Python-based password strength checker designed to evaluate the robustness of entered passwords. Employing advanced algorithms, the tool assesses key factors such as length, complexity, and uniqueness to provide users with a comprehensive analysis of their password's strength. With a user-friendly interface, this project aims to promote cybersecurity awareness by educating users on best practices for creating secure passwords. Whether used for personal security or integrated into larger systems, the tool serves as an essential resource for enhancing digital defenses and minimizing the risk of unauthorized access.
 
 <h2>Services Used</h2>
 
-- <b>Postman</b>
+- <b>Text editor</b>
 
 <h2>Environments Used </h2>
 
@@ -27,4 +23,4 @@ In this Node.js and Express REST API project, I showcase the implementation of f
 <img src="https://i.imgur.com/FAmoBrT.png" height="80%" width="80%" alt="Image 2"/>
 
 <h2>Learning Outcome</h2>
-By completing this project, I gained a comprehensive understanding of REST API operations, recognizing its scalability, flexibility, and the ease of caching due to its stateless nature. RESTful API, an architectural style for interfaces, employs HTTP requests to access and manipulate data. The CRUD operations—GET, PUT, POST, and DELETE—are employed to read, update, create, and delete resources, illustrating the versatile functionalities of REST API. The project highlights the significance of a stateless server, enabling individualized processing of each request, contributing to the scalability and adaptability of RESTful API implementations.
+By completing this project, I gained invaluable insights into cybersecurity practices and Python programming. The hands-on experience of developing a password strength checker enhanced my understanding of fundamental security considerations, including the importance of password complexity and resilience against cyber threats. 
